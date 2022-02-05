@@ -78,17 +78,102 @@ The following grading rubric will be applied to evaluate submissions:
 
 Grades are assigned using the following scale:
 
-| Numerical Grade | Letter Grade |
-| --- | --- |
-| 96–100 | A |
-| 91–95 | A- |
-| 86–90 | B+ |
-| 81–85 | B |
-| 76–80 | B- |
-| 71–75 | C+ |
-| 66–70 | C |
-| 61–65 | C- |
-| 56–60 | D+ 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Numerical Grade
+{{< thclose >}}
+{{< thopen >}}
+Letter Grade
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+96–100
+{{< tdclose >}}
+{{< tdopen >}}
+A
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+91–95
+{{< tdclose >}}
+{{< tdopen >}}
+A-
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+86–90
+{{< tdclose >}}
+{{< tdopen >}}
+B+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+81–85
+{{< tdclose >}}
+{{< tdopen >}}
+B
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+76–80
+{{< tdclose >}}
+{{< tdopen >}}
+B-
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+71–75
+{{< tdclose >}}
+{{< tdopen >}}
+C+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+66–70
+{{< tdclose >}}
+{{< tdopen >}}
+C
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+61–65
+{{< tdclose >}}
+{{< tdopen >}}
+C-
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+56–60
+{{< tdclose >}}
+{{< tdopen >}}
+D+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Late Submissions
 ----------------
