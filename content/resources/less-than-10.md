@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 93d560f8-b8bf-712c-5b1e-4578b3537871
 resourcetype: Image
 title: _less-than-10.png
 uid: 8ed1358b-bd9b-4dc3-2bea-38b1b15b67cb
